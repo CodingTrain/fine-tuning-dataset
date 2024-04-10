@@ -1,0 +1,5 @@
+transcripts
+.env
+output.jsonl
+node_modules
+.DS_Store
